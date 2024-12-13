@@ -1,5 +1,5 @@
 <h2 align="center">
-  <em>⌜SYCHX⌟</em>
+  <em>⌜FFX64⌟</em>
 </h2>
 
 <h4 align="center">
