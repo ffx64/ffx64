@@ -7,5 +7,5 @@
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,cpp,java,go,python,mongo,hacker"/>
+  <img src="https://skillicons.dev/icons?i=cpp,go,java,python,postgres,sqlite,mongo,docker,linux"/>
 </p>
