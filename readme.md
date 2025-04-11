@@ -13,5 +13,5 @@ ffx64@debian $ cat projects.txt
 2. SearchX Indexer    – indexes leaks and monitoring data
 3. SearchX Agents     – active data collection with distributed agents
 4. SearchX Migrations – manages schema versions for the SearchX Databases
-5. WPRecon            – straightforward vulnerability scanner for Wordpress
+5. WPRecon            – blackbox vulnerability scanner for Wordpress
 ```
