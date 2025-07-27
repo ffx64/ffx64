@@ -4,7 +4,7 @@
 ›‹›‹›‹›‹›‹›‹›‹›‹››‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹››‹›‹›‹›‹›‹›‹
 
 ffx64@arch $ cat stack.txt
-1. C++, Go, Java, Python
+1. C++, Go, Java, Python, Typescript/React
 2. MySQL, PostgreSQL, SQLite, MongoDB
 3. Linux, Git, Docker, Flyway
 
