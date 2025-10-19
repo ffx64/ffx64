@@ -1,14 +1,14 @@
 ```console
 ›‹›‹›‹›‹›‹›‹›‹›‹››‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹››‹›‹›‹›‹›‹›‹
-›                           F   F   X   6   4                            ‹
+›                             M A T H E U S                              ‹
 ›‹›‹›‹›‹›‹›‹›‹›‹››‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹›‹››‹›‹›‹›‹›‹›‹
 
-ffx64@arch $ cat stack.txt
-1. C++, Go, Java, Python, Typescript/React
-2. MySQL, PostgreSQL, SQLite, MongoDB, RedisDB
-3. Linux, Git, Docker, Flyway
+matheus@arch $ cat stack.txt
+1. C++, Go/GIN Gonic, Java/Spring Boot, Python, Typescript/React
+2. MySQL, PostgreSQL, SQLite, MongoDB, RedisDB, Elastic Search
+3. Linux, Git, Docker, Flyway, Nginx
 
-ffx64@arch $ cat projects.txt
+matheus@arch $ cat projects.txt
 1. SearchX            – exposes data leaks and monitors targets in real time
 2. SearchX Indexer    – indexes leaks and monitoring data
 3. SearchX Agents     – active data collection with distributed agents
